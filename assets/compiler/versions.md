@@ -3,3 +3,4 @@
   - zahlen in format ```xxx xxx xxx xxx```
 - 0.2:
   - optcodes
+  - files zum compilen aussuchbar
